@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abdi</h1>
-<h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
+<h1>Hi 👋, I'm Abdi</h1>
 
 - 👨‍💻 All of my projects are available at [https://github.com/razorext2](https://github.com/razorext2)
 
-- 📫 How to reach me: **razorext2@gmail.com**
+- 📫 For opportunity, jobs or project: **razorext2@gmail.com**
+
+- 📌 Location: Medan, North Sumatera, Indonesia 
 
 ---
 
