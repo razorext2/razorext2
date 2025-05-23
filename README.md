@@ -20,11 +20,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=razorext2&show_icons=true&theme=tokyonight" alt="razorext2" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=razorext2&theme=tokyonight" alt="razorext2" />
 </p>
 
