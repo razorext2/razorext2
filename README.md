@@ -34,6 +34,6 @@
 ---
 
 ### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/razorext2)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://facebook.com/razorext2)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/razorext)
 [![Email](https://img.shields.io/badge/-Email-grey?style=flat&logo=gmail)](mailto:razorext2@gmail.com)
