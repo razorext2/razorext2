@@ -35,5 +35,7 @@
 
 ### 📫 Let's Connect
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://facebook.com/razorext2)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=whatsapp)](https://api.whatsapp.com/send/?phone=6285835392172&text&type=phone_number&app_absent=0)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram)](https://t.me/rzrxtx)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/razorext)
 [![Email](https://img.shields.io/badge/-Email-grey?style=flat&logo=gmail)](mailto:razorext2@gmail.com)
